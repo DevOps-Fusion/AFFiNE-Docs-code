@@ -1,4 +1,4 @@
-# Welcome to the AFFiNE Docs!
+## Welcome to the AFFiNE Docs!
 
 ## <mark style="color:orange;">⚠️</mark> <mark style="color:red;">For reference only</mark> <mark style="color:orange;">⚠️</mark>
 
