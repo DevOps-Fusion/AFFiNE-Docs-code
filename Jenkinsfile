@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/DevOps-Fusion/AFFiNE-Docs-code.git'
+                git branch: 'archive', url: 'https://github.com/DevOps-Fusion/AFFiNE-Docs-code.git'
             }
         }
 
