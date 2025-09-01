@@ -4,7 +4,7 @@ metadata:
   name: affine-doc
   description: Affine documentation service
   annotations:
-    backstage.io/managed-by-location: url:https://github.com/DevOps-Fusion/AFFine-Docs-code/catalog-info.yaml
+    backstage.io/managed-by-location: url:https://raw.githubusercontent.com/DevOps-Fusion/AFFine-Docs-code/master/catalog-info.yaml
     jenkins.io/job-name: "Affine-doc"
 spec:
   type: service
